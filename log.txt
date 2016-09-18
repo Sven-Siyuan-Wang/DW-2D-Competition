@@ -1,0 +1,7 @@
+<13:27:46>||<10/04/2015>||Collect Plates at X
+<13:28:31>||<10/04/2015>||Expose Plates at B
+<13:29:16>||<10/04/2015>||Collect Plates at X
+<13:30:01>||<10/04/2015>||Expose Plates at B
+<13:30:46>||<10/04/2015>||Collect Plates at X
+<13:31:40>||<10/04/2015>||Expose Plates at C
+<13:32:35>||<10/04/2015>||Finished, and arrived at X
